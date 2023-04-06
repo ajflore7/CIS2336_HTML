@@ -1,0 +1,35 @@
+input[type=text] {
+    height: height 85%;
+    width: 95%
+}
+input[type=button] {
+    background-color: blue;
+    font-size: large;
+    width: 100%;
+    color: white;
+    height: 100%;
+    border: solid black 4px;
+}
+th {
+    color: red;
+    font-weight: normal;
+    border: solid black 3px;
+}
+td {
+    background-color: white;
+    width: 60px;
+    height: 40px;
+}
+body {
+    background-image: url(https://cdn.wallpapersafari.com/7/42/xqlgfA.jpg);
+}
+
+#calculator {
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    
+}
+#head {
+    background-color: white;
+}
