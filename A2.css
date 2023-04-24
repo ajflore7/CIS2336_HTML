@@ -1,0 +1,127 @@
+body {
+    background-image: url("https://wallpapers.com/images/featured/wnxju2647uqrcccv.jpg");
+    background-size:cover;
+}
+table, tr{
+    width: 98%;
+}
+
+#main{
+    border-color: black;
+    background-color: gray;
+    height: 80%;
+}
+#page td{
+    position: relative;
+}
+#td01{
+    position: relative; 
+    left:75px; 
+    color: white;
+
+}
+#d01{
+    position: relative;
+    bottom: 230px;
+}
+#favplace{
+    width: 100%;
+}
+
+#d02{
+    position: relative;
+    bottom: 220px;
+    color: white;
+}
+textarea{
+    width: 90%;
+    height: 150px;
+}
+
+#d03{
+    position: relative;
+    bottom: 120px;
+    color:white;
+}
+#d04{
+    position: relative;
+    bottom:120px;
+    color:white
+}
+#d05{
+    position: relative;
+    bottom: 120px;
+    color:white
+}
+#city{
+    width: 35%;
+}
+
+#d06{
+    position: relative;
+    bottom: 20px;
+    background-color: white;
+    height: 25px;
+    width: 100%;
+    color:black;
+}
+
+#d08{
+    position: relative;
+    bottom: 0px;
+    color:white;
+}
+
+#d09{
+    position: relative;
+    bottom: 0px;
+}
+#d10{
+    position: relative;
+    bottom: -59px;
+    width:100%;
+    height:50px;
+    background: white;
+}
+
+#d11{
+    position: relative;
+    bottom: -25px;
+    left: 10px;
+}
+#td02{
+    position: relative; 
+    left:110px; 
+    size: 200;
+    color: white;
+}
+#image1{
+    width: 65%;
+    height: 300;
+    position: relative; 
+    top:-220px;
+}
+#d12{
+    position: relative;
+    top: -180px;
+    border-color:lightblue;
+    border-style: solid;
+    color: white;
+    width: 65%;
+}
+#d13{
+    position: relative;
+    top: -180px;
+    border-color: lightblue;
+    border-style: solid;
+    width: 65%;
+    color:white;
+}
+#d14{
+    position: relative;
+    width: 65%;
+    border-color: lightblue;
+    border-style: solid;
+    top:-80px;
+    color:white;
+}
